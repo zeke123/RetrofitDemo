@@ -1,7 +1,5 @@
 package com.zhoujian.retrofit.webservice;
-
 import com.zhoujian.retrofit.bean.WeatherData;
-
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
